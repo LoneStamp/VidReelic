@@ -1,10 +1,14 @@
 # Short Video Automation
+
 ## Requirements
+---
 A. Language
 - Python
 B. Multimedia Framework
 - FFMPEG
-C. API Integration
+---
+C. API'S Integration
+---
 1. Script Writers
 - DeepSeek
 - OpenAI
