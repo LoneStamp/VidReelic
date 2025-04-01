@@ -1,0 +1,39 @@
+mutation {
+  createYoutubePost(
+    input: {
+      title: "how to optimize your youtube shorts for seo 📈"
+      description: "Learn how to optimize your YouTube Shorts for better visibility and engagement. Discover tips and tricks to grow your audience with effective strategies! 💡 #SEO #growth"
+      hashtags: [
+        "youtube", 
+        "shorts", 
+        "seo", 
+        "optimization", 
+        "growth", 
+        "trending", 
+        "contentcreation", 
+        "digitalmarketing", 
+        "tips", 
+        "youtubemarketing"
+      ]
+      emoji: ["📈", "💡", "🔥"]
+      video_url: "https://www.youtube.com/shorts/abc123"  # URL of the video
+      category: "Education"  # Example category, adjust as needed
+      is_published: true
+      post_type: "shorts"  # Ensuring it is for a short
+      publish_time: "2025-04-01T10:00:00Z"  # UTC format for time
+    }
+  ) {
+    post {
+      id
+      title
+      description
+      hashtags
+      emoji
+      video_url
+      category
+      publish_time
+      post_type
+      is_published
+    }
+  }
+}
