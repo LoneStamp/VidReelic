@@ -28,7 +28,8 @@
 - 🔊 **Whisper AI**  
 
 #### 🗣 4. Voice Generation  
-- 🎙 **ElevenLabs**  
+- 🎙 **ElevenLabs**
+- 📍**Local**
 
 #### 📡 5. Auto Upload (Optional)  
 - 🎥 **YouTube**  
