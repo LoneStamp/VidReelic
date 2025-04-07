@@ -17,16 +17,16 @@ def merge_videos(video_files):
     return final_video
 
 def main():
-    # Trim a video from 5 to 15 seconds
+ 
     trimmed_video = trim_video("input_video.mp4", 5, 15)
 
-    # Add text to the trimmed video
+ 
     video_with_text = add_text(trimmed_video, "Hello, World!")
 
-    # Save the edited video
+   
     video_with_text.write_videofile("output_video.mp4", fps=24)
 
-    # If you have multiple videos to merge
+    
     video_files = ["video1.mp4", "video2.mp4"]
     merged_video = merge_videos(video_files)
     merged_video.write_videofile("merged_video.mp4", fps=24)
