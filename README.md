@@ -1,5 +1,5 @@
 <!--
-# 🎬 Videreelic — Short Video Automation  
+# 🎬 Videreelic — Faceless Short Video Automation  
 
 Create high-quality short videos using powerful AI tools. Generate scripts, visuals, subtitles, voiceovers, and upload — all from a local environment with internet access.
 
