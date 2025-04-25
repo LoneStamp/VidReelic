@@ -1,5 +1,5 @@
 
-# 🎬 Videreelic — Faceless Short Video Automation  
+<!--# 🎬 Videreelic — Faceless Short Video Automation  
 
 Create high-quality short videos using powerful AI tools. Generate scripts, visuals, subtitles, voiceovers, and upload — all from a local environment with internet access.
 
@@ -75,3 +75,4 @@ Once built, **Videreelic** runs entirely on **localhost**. It does **not** requi
 ---
 
 > 💡 **Videreelic** is a no-server, locally run tool designed for creators who want the power of AI in one streamlined, scriptable workflow.
+-->
